@@ -1,0 +1,44 @@
+[
+  {
+    "sample": "ascii",
+    "zxing_exact": true,
+    "opencv_exact": true,
+    "zxing_ms": 1.1,
+    "opencv_ms": 24.91
+  },
+  {
+    "sample": "japanese",
+    "zxing_exact": true,
+    "opencv_exact": true,
+    "zxing_ms": 0.97,
+    "opencv_ms": 25.96
+  },
+  {
+    "sample": "url",
+    "zxing_exact": true,
+    "opencv_exact": true,
+    "zxing_ms": 1.72,
+    "opencv_ms": 26.9
+  },
+  {
+    "sample": "multiline",
+    "zxing_exact": true,
+    "opencv_exact": true,
+    "zxing_ms": 0.75,
+    "opencv_ms": 21.64
+  },
+  {
+    "sample": "long",
+    "zxing_exact": true,
+    "opencv_exact": true,
+    "zxing_ms": 20.86,
+    "opencv_ms": 342.72
+  },
+  {
+    "sample": "controls",
+    "zxing_exact": true,
+    "opencv_exact": false,
+    "zxing_ms": 0.57,
+    "opencv_ms": 22.48
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "PySide6": "6.8.3",
+  "zxing-cpp": "2.3.0",
+  "Pillow": "11.3.0",
+  "numpy": "2.2.6",
+  "opencv-python-headless": "4.12.0.88",
+  "qrcode": "8.2",
+  "pytest": "9.1.1"
+}
